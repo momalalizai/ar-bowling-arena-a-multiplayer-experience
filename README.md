@@ -13,7 +13,7 @@ Unlike traditional bowling games where players take turns, this project introduc
 
 This creates a dynamic gameplay experience.
 
-
+---
 ## Core Concept
 
 The project challenges the idea of turn-based gameplay by introducing:
@@ -24,7 +24,7 @@ The project challenges the idea of turn-based gameplay by introducing:
 
 This transforms a simple bowling game into a **competitive and interactive AR experience**.
 
-
+---
 ## Gameplay Mechanics
 
 - Players place a bowling lane in a real-world environment using AR
@@ -33,7 +33,7 @@ This transforms a simple bowling game into a **competitive and interactive AR ex
 - Obstacles affect ball trajectory and outcome
 - Game outcome depends on both skill and interaction
 
-
+---
 ## Features
 
 - AR-based environment placement using mobile device
@@ -51,6 +51,7 @@ It was a team project and my contribution in the project was to:
 - Built UI flow for shared gameplay experience
 - Collective work in Game play designing and documentation
 
+---
 
 
 ## Technologies Used
@@ -62,7 +63,7 @@ It was a team project and my contribution in the project was to:
 - Physics Engine
 - Photon Engine 
 
-
+---
 ## Skills Demonstrated
 
 - AR development
@@ -72,7 +73,7 @@ It was a team project and my contribution in the project was to:
 - Real-time gameplay systems
 - Creative problem solving
 
-
+---
 
 ## Project Status
 
