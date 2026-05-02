@@ -1,7 +1,7 @@
 # AR Bowling Arena – Multiplayer Interactive AR Game
 
 A Unity-based mobile augmented reality (AR) fun game that reimagines traditional bowling gameplay through a simultaneous multiplayer interaction system.
----
+
 ## Project Overview
 
 AR Bowling Arena was designed as an experimental AR game to explore new forms of multiplayer interaction in real-world environments.
